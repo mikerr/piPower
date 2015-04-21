@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# by https://github.com/electronicsguy
 
 import RPi.GPIO as GPIO , time
 from subprocess import call
