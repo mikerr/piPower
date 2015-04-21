@@ -13,6 +13,6 @@ while True:
         else:
                 powerlow =0
         if (powerlow  > 3):
-                 print "Low power for " + str(powerloss) + " seconds"
+                 print "Low power for " + str(powerlow) + " seconds"
                  print "shutting down"
         time.sleep(1)
